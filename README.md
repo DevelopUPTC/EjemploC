@@ -1,6 +1,6 @@
 # Ejemplo de C
 
-Repositorio que contiene ejemplos básicos de C
+Repositorio que contiene ejemplos básicos de `Lenguaje C`
 
 ## Temas
 
